@@ -1,0 +1,4 @@
+media_id,url,name,pub_country,pub_state,language,about_country,media_type,public_notes,editor_notes,stories_per_day,first_story
+"1","http://nytimes.com","New York Times","USA","US-NY","en","United States","print_native","","","122.14","2012-06-11"
+,"http://www.cbsnews.com/","CBS News","USA","US-NY","en","United States","video_broadcast","","","60.36","2015-06-15"
+,"http://www.cnn.com/",,,,,,,"","",,
